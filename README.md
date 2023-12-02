@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects related in data analytics.
 - 📫 How to reach me rohit787930@gmail.com.
-- 
+
 I am Data Science enthusiast ... basically I love to find incredible insights from data that help business sell, earn, save and grow better. Looking for new opportunities. 
 
 Currently working as a content moderator. I am learning Data Science through online courses and certificates, practicing my knowledge and implementing it in case studies and data sets. Recently joined "Alma better" for more knowledge and to increase my expertise in this field. 
