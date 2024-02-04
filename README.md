@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitJaiswal01
 - 👀 I’m interested in Data Science and analytics. 
-- 🌱 I’m currently learning SQL
+- 🌱 I have learnt SQL, Python, Power BI and Excel. Looking for opportunities.
 - 💞️ I’m looking to collaborate on projects related in data analytics.
 - 📫 How to reach me rohit787930@gmail.com.
 
