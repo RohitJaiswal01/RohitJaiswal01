@@ -6,7 +6,7 @@
 
 I am Data Science enthusiast ... basically I love to find incredible insights from data that help business sell, earn, save and grow better. Looking for new opportunities. 
 
-Currently working as a content moderator. I am learning Data Science through online courses and certificates, practicing my knowledge and implementing it in case studies and data sets. Recently joined "Alma better" for more knowledge and to increase my expertise in this field. 
+Mastered my skills in data analysis in python, SQL, Microsoft Power BI and Advance Excel/ Google Sheets.
 
 Being a confident communicator and data lover, I love to share stories with the help of data and turn thoughts into action. I am also a critical thinker and problem solver, which allows me to identify and solve complex problems.
 
