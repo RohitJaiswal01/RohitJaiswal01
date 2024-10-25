@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @RohitJaiswal01
 - 👀 I’m interested in Data Science and analytics. 
-- 🌱 I have learnt SQL, Python, Power BI and Excel. Looking for opportunities.
+- 🌱 I have learnt  Python, SQL, Microsoft Power BI, Tableau, tableau Prep and Advance Excel/ Google Sheets. Looking for opportunities.
 - 💞️ I’m looking to collaborate on projects related in data analytics.
 - 📫 How to reach me rohit787930@gmail.com.
 
 I am Data Science enthusiast ... basically I love to find incredible insights from data that help business sell, earn, save and grow better. Looking for new opportunities. 
 
-Mastered my skills in data analysis in python, SQL, Microsoft Power BI and Advance Excel/ Google Sheets.
+Mastered my skills in data analysis in Python, SQL, Microsoft Power BI, Tableau, tableau Prep and Advance Excel/ Google Sheets.
 
 Being a confident communicator and data lover, I love to share stories with the help of data and turn thoughts into action. I am also a critical thinker and problem solver, which allows me to identify and solve complex problems.
 
