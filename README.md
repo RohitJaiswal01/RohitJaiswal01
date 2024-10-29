@@ -7,9 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=RohitJaiswal01&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-?--?--green" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Indore%20Madhya%20Pradesh-success" />
+  <img src="https://img.shields.io/badge/Lives-Madhya%20Pradesh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
@@ -17,26 +17,26 @@
 <h3 align="center">Aspiring Data Analyst and Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-jaiswal01/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="lin_rohit" height="30" width="40" /></a>  
-<a href = "mailto: rohit10438@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: rohit10438@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
-    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> transitioning into Data Analytics and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like <b>an architect</b> designing a blueprint, constructing data models using <b>ETL</b>, <b>Python</b>, <b>SQL</b>, and visualization tools as my compass, I navigate the vast sea of data to uncover hidden treasures of opportunity.
+    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller transitioning into Data Analytics and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like an architect designing a blueprint, I construct data models using ETL, Python, SQL, and visualization tools as my compass, navigating the vast sea of data to uncover hidden treasures of opportunity.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "A single spark of knowledge can ignite countless minds”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Every dataset tells a story; it’s up to us to unveil it.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***<br>
 
-✔ Call me: ***He/Him*** or ***Team Player*** 😊 <br>
-✔ I’m currently learning about **ETL, Data Analysis,** and **Data Engineering** 🥰<br>
-✔ I’m looking to collaborate on **Open-Source Data Analytics projects**<br>
-✔ Ask me anything you want, *but be warned: my wisdom comes at a premium!* 😉<br>
-✔ Fun fact: *I believe in the power of data to tell stories that can change the world, one insight at a time!* 😎<br><br><br><br>
+✔ Call me: ***He/Him*** or ***TeamPlayer*** 😊 <br>
+✔ I’m currently learning about **ETL, Data Analytics, and Data Engineering** 🥰<br>
+✔ I’m looking to collaborate on **open-source data projects**<br>
+✔ Ask me anything about data, and I’ll be happy to share insights! 😉<br>
+✔ Fun fact: *I believe in the power of data to change the world, and I enjoy experimenting with different data visualization techniques!* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -56,9 +56,8 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-</p>
 
 -----
 Credits: [Rohit Jaiswal](https://github.com/RohitJaiswal01)
 
-Last Edited on: 01/10/2024
+Last Edited on: 29/10/2024
