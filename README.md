@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a17ffe87-6e40-482c-8e0b-308d8a65986d" height="300" width="1000"/>
-</p>
-
-
+  <img src="https://github.com/user-attachments/assets/a17ffe87-6e40-482c-8e0b-308d8a65986d" height="500" width="1000"/>
 </p>
 <br>
 
@@ -10,9 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=RohitJaiswal01&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-<your_age>-blue" />
+  <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20&%20Engineering-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-<your_location>-success" />
+  <img src="https://img.shields.io/badge/Lives-Madhya%20Pradesh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
