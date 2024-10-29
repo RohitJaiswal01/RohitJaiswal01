@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/63ccf2f0ea97be12ead278ed/644a18b637053fa3709c5ba2_what-is-data-science.jpg" height="300" width="1000"/>
+  <img src="![image](https://github.com/user-attachments/assets/5bd11b30-acbe-472b-b27a-5b598203ab81)
+"/>
 </p>
 <br>
 
@@ -14,7 +15,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rohit Jaiswal</h1>
-<h3 align="center">Aspiring Data Analyst and Engineer</h3>
+<h3 align="center">Aspiring Data Analyst and Business Intelligence Analyst</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-jaiswal01/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="lin_rohit" height="30" width="40" /></a>  
   <a href="mailto:rohit787930@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
