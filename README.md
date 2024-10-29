@@ -5,43 +5,42 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=RohitJaiswal01&color=brightgreen" alt="watching_count" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Age-XX-blue" /> <!-- Update with your age -->
-<img src="https://img.shields.io/badge/Focus-Business%20Intelligence-brightgreen" />
-<img src="https://img.shields.io/badge/Lives-Madhya%20Pradesh-success" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-?--?--green" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Indore%20Madhya%20Pradesh-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rohit Jaiswal</h1>
-<h3 align="center">Aspiring Business Intelligence Engineer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rohit Jaiswal </h1>
+<h3 align="center">Aspiring Data Analyst and Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-jaiswal01/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="lin_rohit" height="30" width="40" /></a>  
-<a href="mailto:rohit787930@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href = "mailto: rohit10438@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
-    Hello, I am Rohit Jaiswal, a graduate with a Bachelor's degree in Business Administration. I'm a passionate learner and data storyteller <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, transitioning into the field of data science and analytics. I enjoy crafting narratives from numbers, transforming raw data into strategic insights that drive business growth. 
-    Using tools like <b>Python</b>, <b>SQL</b>, and visualization platforms, I uncover hidden opportunities within data.
+    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> transitioning into Data Analytics and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like <b>an architect</b> designing a blueprint, constructing data models using <b>ETL</b>, <b>Python</b>, <b>SQL</b>, and visualization tools as my compass, I navigate the vast sea of data to uncover hidden treasures of opportunity.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "A single spark of knowledge can ignite countless minds”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
+
 ✔ Call me: ***He/Him*** or ***Team Player*** 😊 <br>
-✔ I’m currently learning about **data engineering** and **deep learning** 🥰 <br>
-✔ I’m looking to collaborate on **open-source data science projects** <br>
+✔ I’m currently learning about **ETL, Data Analysis,** and **Data Engineering** 🥰<br>
+✔ I’m looking to collaborate on **Open-Source Data Analytics projects**<br>
 ✔ Ask me anything you want, *but be warned: my wisdom comes at a premium!* 😉<br>
-✔ Fun fact: *I believe life is too short for boring routines, so I enjoy spontaneous dance parties in my living room!* 😎<br><br><br><br>
+✔ Fun fact: *I believe in the power of data to tell stories that can change the world, one insight at a time!* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
+
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> </code>
@@ -60,7 +59,6 @@
 </p>
 
 -----
-
 Credits: [Rohit Jaiswal](https://github.com/RohitJaiswal01)
 
-Last Edited on: 29/10/2024
+Last Edited on: 01/10/2024
