@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller transitioning into Data Analytics and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like an architect designing a blueprint, I construct data models using ETL, Python, SQL, and visualization tools as my compass, navigating the vast sea of data to uncover hidden treasures of opportunity. I have mastered my skills through courses at <a href="https://www.almabetter.com/">AlmaBetter</a> and the <a href="https://www.taskus.com/">Data Science Preparatory Academy at TaskUs</a>.
+    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller transitioning into Data Analytics, Business Intelligence and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like an architect designing a blueprint, I construct data models using ETL, Python, SQL, and visualization tools as my compass, navigating the vast sea of data to uncover hidden treasures of opportunity. I have mastered my skills through courses at <a href="https://www.almabetter.com/">AlmaBetter</a> and the <a href="https://www.taskus.com/">Data Science Preparatory Academy at TaskUs</a>.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "A single spark of knowledge can ignite countless minds”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -33,7 +33,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
 
 ✔ Call me: ***He/Him*** or ***Team Player*** 😊 <br>
-✔ I have learned and am proficient in **ETL, Data Analytics, and Data Engineering** 🥰<br>
+✔ I have learned and am proficient in **ETL, Data Analytics, and Data Visualization** 🥰<br>
 ✔ I’m looking to collaborate on **Open-Source Data Analytics projects**<br>
 ✔ Feel free to reach out for a chat or to connect; I'm always eager to engage with like-minded professionals! 😉<br>
 ✔ Fun fact: *I believe in making every day count, so I often take spontaneous weekend trips to explore new places!* 😎<br><br><br><br>
