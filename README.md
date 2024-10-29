@@ -7,39 +7,36 @@
 <img src="https://komarev.com/ghpvc/?username=RohitJaiswal01&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-<Your_Age>-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Engineering-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Indore%20Madhya%20Pradesh-success" />
+  <img src="https://img.shields.io/badge/Age-<your_age>-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20&%20Engineering-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-<your_location>-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rohit Jaiswal</h1>
-<h3 align="center">Aspiring Data Analyst & Engineer</h3>
+<h3 align="center">Aspiring Data Analyst and Engineer</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-jaiswal01/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" />
-  </a>  
-  <a href="mailto:rohit10438@gmail.com">
-    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/rohit-jaiswal01/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="lin_rohit" height="30" width="40" /></a>  
+  <a href="mailto:rohit787930@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
-    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller transitioning into Data Analytics and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like an architect designing a blueprint, I construct data models using ETL, Python, SQL, and visualization tools as my compass, navigating the vast sea of data to uncover hidden treasures of opportunity. I'm currently enhancing my skills through a Full Stack Data Science course at <a href="https://www.almabetter.com/">AlmaBetter</a> and the Data Science Professional Analytics (DSPA) course at <a href="https://www.taskus.com/">TaskUs</a>.
-  </em>
+    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller transitioning into Data Analytics and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like an architect designing a blueprint, I construct data models using ETL, Python, SQL, and visualization tools as my compass, navigating the vast sea of data to uncover hidden treasures of opportunity. I have mastered my skills through courses at <a href="https://www.almabetter.com/">AlmaBetter</a> and the <a href="https://www.taskus.com/">Data Science Preparatory Academy at TaskUs</a>.
+  </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "A single spark of knowledge can ignite countless minds”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-✔ Call me: ***He/Him*** or ***Team Worker*** 😊 <br>
-✔ I’m currently learning about **ETL, Data Analytics, and Data Engineering** 🥰 <br>
-✔ I’m looking to collaborate on any **Open-Source data science projects** <br>
-✔ Feel free to reach out to me with your ideas; I love discussing new opportunities! <br>
-✔ Fun fact: *I enjoy solving puzzles and challenges in my free time – they keep my mind sharp!* 😎<br><br><br><br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
+
+✔ Call me: ***He/Him*** or ***Team Player*** 😊 <br>
+✔ I have learned and am proficient in **ETL, Data Analytics, and Data Engineering** 🥰<br>
+✔ I’m looking to collaborate on **Open-Source Data Analytics projects**<br>
+✔ Feel free to reach out for a chat or to connect; I'm always eager to engage with like-minded professionals! 😉<br>
+✔ Fun fact: *I believe in making every day count, so I often take spontaneous weekend trips to explore new places!* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -63,4 +60,4 @@
 -----
 Credits: [Rohit Jaiswal](https://github.com/RohitJaiswal01)
 
-Last Edited on: 01/10/2024
+Last Edited on: 29/10/2024
