@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20&%20Engineering-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Madhya%20Pradesh-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" /> 
+  <b><i align="center">Thought: "Every piece of data has a story to tell; I strive to uncover it.”</i></b> 
+  <img src="https://media.giphy.com/media/3o6nV5VTkzl9xVz8ko/giphy.gif" width="50" />
 </p>
 
 <hr>
