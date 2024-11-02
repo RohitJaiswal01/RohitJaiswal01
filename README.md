@@ -33,7 +33,9 @@
   </em> 
   <br>
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i>"Every piece of data has a story to tell; I strive to uncover it.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" /> 
+  <b><i align="center">Thought: "Every piece of data has a story to tell; I strive to uncover it.”</i></b> 
+  <img src="https://media.giphy.com/media/5X4ZbhRyACarPi4Z8w/giphy.gif" width="50" />
 </p>
 
 ---
