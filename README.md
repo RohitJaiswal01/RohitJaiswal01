@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20&%20Engineering-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Engineering-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Madhya%20Pradesh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
@@ -22,10 +22,12 @@
 
 <p align="center">
   <em>
-    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller transitioning into Data Analytics, Business Intelligence and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like an architect designing a blueprint, I construct data models using ETL, Python, SQL, and visualization tools as my compass, navigating the vast sea of data to uncover hidden treasures of opportunity. I have mastered my skills through courses at <a href="https://www.almabetter.com/">AlmaBetter</a> and the <a href="https://www.taskus.com/">Data Science Preparatory Academy at TaskUs</a>.
+    Hello, I am Rohit Jaiswal, a passionate learner and data storyteller transitioning into Data Analytics, Business Intelligence, and Engineering. I craft narratives from numbers, transforming raw data into strategic insights that drive business growth. Like an architect designing a blueprint, I construct data models using ETL, Python, SQL, and visualization tools as my compass, navigating the vast sea of data to uncover hidden treasures of opportunity. I have mastered my skills through courses at <a href="https://www.almabetter.com/">AlmaBetter</a> and the <a href="https://www.taskus.com/">Data Science Preparatory Academy at TaskUs</a>.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Every piece of data has a story to tell; I strive to uncover it.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/hpFjVY8DqrwT0djW0R/giphy.gif" width="50" /> 
+  <b><i align="center">Thought: "Every piece of data has a story to tell; I strive to uncover it.”</i></b> 
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
