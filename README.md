@@ -26,7 +26,7 @@
    Hello, I’m Rohit Jaiswal, a dedicated data enthusiast with a keen focus on Data Analytics, Business Intelligence, and Data Engineering. I specialize in uncovering valuable insights from complex data, transforming it into actionable strategies that support informed business decisions. Much like an architect developing a detailed blueprint, I build robust data models and pipelines using ETL processes, Python, SQL, and advanced visualization tools. Guided by structured learning from AlmaBetter and the Data Science Preparatory Academy at TaskUs, I am equipped with a strong foundation to navigate diverse data landscapes and drive impactful outcomes.</a>.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" /> <b><i align="center">Thought: "Every piece of data has a story to tell; I strive to uncover it.”</i></b> <img src="https://media.giphy.com/media/3o6nV5VTkzl9xVz8ko/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" /> <b><i align="center">Thought: "Every piece of data has a story to tell; I strive to uncover it.”</i></b> <img src="[https://media.giphy.com/media/3o6nV5VTkzl9xVz8ko/giphy.gif](https://cdn.dribbble.com/users/2168142/screenshots/4503544/cloudd.gif)" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
