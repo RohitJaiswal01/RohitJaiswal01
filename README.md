@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a17ffe87-6e40-482c-8e0b-308d8a65986d" height="500" width="1000"/>
 </p>
@@ -23,7 +22,7 @@
 
 <p align="center">
   <em>
-   Hello, I’m Rohit Jaiswal, a dedicated data enthusiast with a keen focus on Data Analytics, Business Intelligence, and Data Engineering. I specialize in uncovering valuable insights from complex data, transforming it into actionable strategies that support informed business decisions. Much like an architect developing a detailed blueprint, I build robust data models and pipelines using ETL processes, Python, SQL, and advanced visualization tools. Guided by structured learning from AlmaBetter and the Data Science Preparatory Academy at TaskUs, I am equipped with a strong foundation to navigate diverse data landscapes and drive impactful outcomes.</a>.
+   Hello, I’m <strong>Rohit Jaiswal</strong>, a dedicated <strong>data enthusiast</strong> with a keen focus on <strong>Data Analytics, Business Intelligence,</strong> and <strong>Data Engineering</strong>. I specialize in uncovering <strong>valuable insights from complex data,</strong> transforming it into <strong>actionable strategies</strong> that support <strong>informed business decisions</strong>. Much like an architect developing a detailed blueprint, I build <strong>robust data models and pipelines</strong> using <strong>ETL processes, Python, SQL,</strong> and <strong>advanced visualization tools</strong>. Guided by structured learning from <strong>AlmaBetter</strong> and the <strong>Data Science Preparatory Academy at TaskUs</strong>, I am equipped with a <strong>strong foundation</strong> to navigate <strong>diverse data landscapes</strong> and <strong>drive impactful outcomes</strong>.
   </em> 
   <br>
   <img src="https://i0.wp.com/www.yesitlabs.com/wp-content/uploads/2023/09/gif-new.gif?resize=468%2C417" width="50" /> <b><i align="center">Thought: "Every piece of data has a story to tell; I strive to uncover it.”</i></b>
@@ -62,4 +61,4 @@
 -----
 Credits: [Rohit Jaiswal](https://github.com/RohitJaiswal01)
 
-Last Edited on: 29/10/2024
+Last Edited on: 03/11/2024
