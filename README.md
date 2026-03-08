@@ -20,11 +20,12 @@
 <h3 align="center">Data Engineer | Azure | Databricks | Python | PySpark | Data Pipelines | Automation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-jaiswal01/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" height="30" width="40" />
-  </a>  
+<a href="https://www.linkedin.com/in/rohit-jaiswal01">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Jaiswal-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+  
   <a href="mailto:rohit10438@gmail.com">
-  <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40" />
   </a>
 </p>
 
